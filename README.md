@@ -1,2 +1,6 @@
-# NotionCoach
-My Notion Coach To Score My Workouts, and a easy fast check to know what weight to start with
+the .env file should have these values
+
+SECRET_TOKEN=
+SESION_TABLE=
+MOVES_TABLE=
+EXCERSIZE_TABLE=
